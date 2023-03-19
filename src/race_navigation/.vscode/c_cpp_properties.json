@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bendy/nv_ws/devel_isolated/teb_local_planner/include/**",
+        "/home/bendy/nv_ws/install_isolated/include/**",
+        "/home/bendy/nv_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/bendy/nv_ws/src/Family/house_car/include/**",
+        "/home/bendy/nv_ws/src/teb_local_planner-melodic-devel/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
